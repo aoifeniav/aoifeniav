@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aoifeniav.
 - 👀 I’m interested in languages, pandas, and World of Warcraft.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
+- 🌱 I’m currently learning JavaScript & PHP.
 
 <!---
 aoifeniav/aoifeniav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
